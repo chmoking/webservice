@@ -1,6 +1,6 @@
 def main():
     print("¡Hola Mundo desde Python en Ubuntu!")
-    nombre = input("¿Cuál es tu nombre? ")
+    nombre = input("¿Cómo te llamas? ")
     print(f"Mucho gusto, {nombre}.")
 
 if __name__ == "__main__":
